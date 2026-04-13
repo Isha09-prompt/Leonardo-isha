@@ -8,10 +8,10 @@ This project explores creative prompt engineering, image generation, and documen
 ## 📂 Repository Contents
 
 ### Leonardo Output
-![Leonardo](leonardo.png)
+![Leonardo Output](Leonardo.png)
 
 ### Prompt Design
-![Prompt](prompt.png)
+![Prompt Design](Prompt.png)
 
 ### Supporting Illustration
 ![Image](image.png)
